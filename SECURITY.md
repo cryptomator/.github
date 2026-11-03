@@ -1,0 +1,22 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+We take security seriously at Cryptomator. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
+
+To report a security vulnerability, please use the [GitHub Security Advisory feature](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) by clicking "Report a vulnerability" in the Security tab of the affected repository. This feature allows you to privately discuss, fix, and publish information about security vulnerabilities.
+
+## Expectations
+
+When reporting a vulnerability, please provide us with a detailed report that includes:
+
+- A description of the vulnerability
+- Steps to reproduce the vulnerability
+- Possible impact of the vulnerability
+- Any additional information that may be helpful
+
+We ask that you do not publicly disclose the vulnerability until we have had a chance to address it.
+
+## Thank You
+
+We appreciate your help in keeping Cryptomator secure. Thank you for your contributions to the security of our project.
